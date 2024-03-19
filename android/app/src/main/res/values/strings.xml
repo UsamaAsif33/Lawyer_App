@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">istinsbe</string>
+    
+    <string name="facebook_app_id">1098692498004564</string>
+    <string name="fb_login_protocol_scheme">fb1098692498004564</string>
+    <string name="facebook_client_token">a219e624bc16fe0a22adb3ee6f8d899e</string>
+
+
+</resources>

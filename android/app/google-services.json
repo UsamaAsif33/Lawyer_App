@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "232932242714",
+    "project_id": "istinabie",
+    "storage_bucket": "istinabie.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232932242714:android:297e630c607042582628a3",
+        "android_client_info": {
+          "package_name": "com.istinsbe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232932242714-5u88nl48tg1g48d2vo6nqe56u7jo61mo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.istinsbe",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "232932242714-16744cr9j5phe3sobu2kf7n8cfhp7i0e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOkIUcfdvr6pKsZKZjhAzHOEjmMLyPb2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232932242714-16744cr9j5phe3sobu2kf7n8cfhp7i0e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
